@@ -1,0 +1,1001 @@
+text,label
+What's the highest number of new cases recorded in Chhattisgarh during last week?,max_cases_duration
+What's the highest number of active cases recorded in Odisha during last week?,max_cases_duration
+When did Andaman and Nicobar Islands cross 1000 active cases for the first time?,date_based
+What's the highest number of new cases recorded in Bihar during last week?,max_cases_duration
+When did Chhattisgarh cross 500 recoveries for the first time?,date_based
+Show me the average active cases in Delhi over last month.,average_cases_duration
+When did Sikkim cross 100 new cases for the first time?,date_based
+What's the highest number of new cases recorded in Chandigarh during past 7 days?,max_cases_duration
+What's the highest number of recoveries recorded in Goa during today?,max_cases_duration
+How many foreign nationals recoveries have been reported in Arunachal Pradesh last week?,sum_cases_duration
+When did Kerala cross 2000 new cases for the first time?,date_based
+How many active cases are there in Tamil Nadu past 30 days?,cases_date
+Which location has the highest number of all?,location_based
+Show me the average deaths in Mizoram over last month.,average_cases_duration
+When did Chhattisgarh cross 10000 new cases for the first time?,date_based
+How many new cases are there in Jharkhand last week?,cases_date
+Which location has the highest number of foreign nationals?,location_based
+Show me the average recoveries in Madhya Pradesh over past 7 days.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+Which location has the highest number of all?,location_based
+Which location has the highest number of all?,location_based
+How many foreign nationals deaths have been reported in Gujarat last week?,sum_cases_duration
+How many new cases are there in Jharkhand last week?,cases_date
+Which location has the highest number of all?,location_based
+Which location has the highest number of Indian nationals?,location_based
+How many foreign nationals new cases have been reported in Manipur past 7 days?,sum_cases_duration
+How many recoveries are there in Chandigarh today?,cases_date
+When did Haryana cross 1000 recoveries for the first time?,date_based
+Show me the average active cases in West Bengal over past 30 days.,average_cases_duration
+What's the highest number of deaths recorded in Tamil Nadu during last week?,max_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+Show me the average new cases in Mizoram over past 30 days.,average_cases_duration
+What's the highest number of recoveries recorded in Tamil Nadu during past 30 days?,max_cases_duration
+When did Assam cross 10000 recoveries for the first time?,date_based
+When did Tamil Nadu cross 2000 active cases for the first time?,date_based
+What's the highest number of recoveries recorded in Goa during past 30 days?,max_cases_duration
+How many Indian nationals recoveries have been reported in Telengana last month?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many active cases are there in Manipur past 7 days?,cases_date
+What's the highest number of new cases recorded in Himachal Pradesh during past 7 days?,max_cases_duration
+What's the highest number of deaths recorded in Punjab during last month?,max_cases_duration
+What's the highest number of active cases recorded in Kerala during past 7 days?,max_cases_duration
+How many active cases are there in Uttarakhand last week?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+Show me the average active cases in Mizoram over last month.,average_cases_duration
+How many active cases are there in Telengana last week?,cases_date
+How many deaths are there in Tripura today?,cases_date
+When did Uttarakhand cross 10000 new cases for the first time?,date_based
+When did Chhattisgarh cross 1000 deaths for the first time?,date_based
+How many deaths are there in Maharashtra last month?,cases_date
+When did Himachal Pradesh cross 10000 new cases for the first time?,date_based
+What's the highest number of deaths recorded in Chhattisgarh during last week?,max_cases_duration
+Show me the average new cases in Arunachal Pradesh over today.,average_cases_duration
+When did Chhattisgarh cross 500 deaths for the first time?,date_based
+How many all deaths have been reported in Rajasthan past 30 days?,sum_cases_duration
+When did Kerala cross 100 deaths for the first time?,date_based
+Which location has the highest number of foreign nationals?,location_based
+How many deaths are there in Kerala last month?,cases_date
+When did Arunachal Pradesh cross 500 new cases for the first time?,date_based
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of new cases recorded in Sikkim during last week?,max_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+What's the highest number of active cases recorded in Uttar Pradesh during last week?,max_cases_duration
+Which location has the highest number of all?,location_based
+How many all recoveries have been reported in Himachal Pradesh last week?,sum_cases_duration
+When did Jharkhand cross 1000 new cases for the first time?,date_based
+Which location has the highest number of all?,location_based
+Which location has the highest number of foreign nationals?,location_based
+How many all deaths have been reported in Bihar today?,sum_cases_duration
+How many active cases are there in Nagaland past 30 days?,cases_date
+What's the highest number of deaths recorded in Jammu and Kashmir during past 30 days?,max_cases_duration
+How many all active cases have been reported in Telengana last week?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many active cases are there in Tripura past 30 days?,cases_date
+When did Kerala cross 500 recoveries for the first time?,date_based
+How many foreign nationals deaths have been reported in Uttar Pradesh last week?,sum_cases_duration
+Show me the average new cases in Maharashtra over today.,average_cases_duration
+What's the highest number of deaths recorded in Rajasthan during today?,max_cases_duration
+Which location has the highest number of all?,location_based
+How many deaths are there in Jharkhand last week?,cases_date
+How many all active cases have been reported in Mizoram today?,sum_cases_duration
+Show me the average recoveries in Maharashtra over today.,average_cases_duration
+What's the highest number of deaths recorded in Tripura during last week?,max_cases_duration
+Show me the average recoveries in Uttarakhand over last week.,average_cases_duration
+What's the highest number of recoveries recorded in Tamil Nadu during last month?,max_cases_duration
+How many all deaths have been reported in Manipur last month?,sum_cases_duration
+How many active cases are there in Uttar Pradesh today?,cases_date
+When did Jharkhand cross 10000 recoveries for the first time?,date_based
+What's the highest number of new cases recorded in Punjab during today?,max_cases_duration
+How many deaths are there in Rajasthan last week?,cases_date
+What's the highest number of active cases recorded in Jammu and Kashmir during last month?,max_cases_duration
+What's the highest number of deaths recorded in Karnataka during past 30 days?,max_cases_duration
+What's the highest number of new cases recorded in Uttarakhand during last month?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+Show me the average new cases in Arunachal Pradesh over past 30 days.,average_cases_duration
+Show me the average deaths in Uttarakhand over past 30 days.,average_cases_duration
+How many recoveries are there in Telengana last week?,cases_date
+How many Indian nationals active cases have been reported in Mizoram last week?,sum_cases_duration
+How many deaths are there in West Bengal today?,cases_date
+What's the highest number of active cases recorded in Mizoram during last month?,max_cases_duration
+Show me the average deaths in Nagaland over past 30 days.,average_cases_duration
+How many Indian nationals active cases have been reported in Himachal Pradesh past 7 days?,sum_cases_duration
+When did Ladakh cross 1000 recoveries for the first time?,date_based
+When did Karnataka cross 10000 active cases for the first time?,date_based
+Show me the average active cases in Puducherry over past 7 days.,average_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+When did Sikkim cross 10000 active cases for the first time?,date_based
+What's the highest number of recoveries recorded in Arunachal Pradesh during last week?,max_cases_duration
+How many foreign nationals active cases have been reported in Delhi last week?,sum_cases_duration
+How many foreign nationals new cases have been reported in Ladakh last month?,sum_cases_duration
+How many all new cases have been reported in Gujarat last month?,sum_cases_duration
+Which location has the highest number of all?,location_based
+What's the highest number of active cases recorded in Dadra and Nagar Haveli during last month?,max_cases_duration
+Show me the average active cases in Assam over last week.,average_cases_duration
+How many new cases are there in Assam last month?,cases_date
+Show me the average new cases in Chandigarh over past 30 days.,average_cases_duration
+How many deaths are there in Assam last month?,cases_date
+What's the highest number of deaths recorded in Uttar Pradesh during last week?,max_cases_duration
+How many foreign nationals deaths have been reported in Himachal Pradesh today?,sum_cases_duration
+Which location has the highest number of all?,location_based
+Which location has the highest number of Indian nationals?,location_based
+How many all deaths have been reported in Jharkhand past 30 days?,sum_cases_duration
+How many active cases are there in Haryana past 7 days?,cases_date
+Show me the average deaths in Odisha over today.,average_cases_duration
+Which location has the highest number of all?,location_based
+How many deaths are there in Haryana past 30 days?,cases_date
+When did Manipur cross 2000 recoveries for the first time?,date_based
+How many foreign nationals new cases have been reported in Ladakh past 7 days?,sum_cases_duration
+What's the highest number of active cases recorded in Delhi during last month?,max_cases_duration
+When did West Bengal cross 10000 active cases for the first time?,date_based
+Show me the average active cases in Lakshadweep over past 30 days.,average_cases_duration
+What's the highest number of recoveries recorded in Uttarakhand during past 7 days?,max_cases_duration
+How many all active cases have been reported in Andaman and Nicobar Islands past 30 days?,sum_cases_duration
+When did Andaman and Nicobar Islands cross 500 active cases for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+What's the highest number of new cases recorded in Nagaland during last week?,max_cases_duration
+Which location has the highest number of all?,location_based
+Show me the average active cases in Madhya Pradesh over past 30 days.,average_cases_duration
+Show me the average active cases in Dadra and Nagar Haveli over past 30 days.,average_cases_duration
+How many deaths are there in Kerala past 7 days?,cases_date
+How many all deaths have been reported in Chandigarh past 30 days?,sum_cases_duration
+What's the highest number of new cases recorded in Uttarakhand during today?,max_cases_duration
+What's the highest number of new cases recorded in Himachal Pradesh during past 7 days?,max_cases_duration
+What's the highest number of recoveries recorded in Ladakh during past 7 days?,max_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+When did Sikkim cross 10000 recoveries for the first time?,date_based
+How many Indian nationals new cases have been reported in Madhya Pradesh last month?,sum_cases_duration
+How many Indian nationals new cases have been reported in Nagaland past 30 days?,sum_cases_duration
+How many deaths are there in Ladakh last month?,cases_date
+What's the highest number of new cases recorded in Bihar during last month?,max_cases_duration
+What's the highest number of new cases recorded in Himachal Pradesh during past 30 days?,max_cases_duration
+How many Indian nationals active cases have been reported in Tripura last month?,sum_cases_duration
+When did Manipur cross 100 deaths for the first time?,date_based
+How many foreign nationals recoveries have been reported in Karnataka last month?,sum_cases_duration
+What's the highest number of deaths recorded in Chandigarh during today?,max_cases_duration
+How many deaths are there in Assam last week?,cases_date
+How many all recoveries have been reported in Chandigarh today?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many Indian nationals active cases have been reported in Bihar last week?,sum_cases_duration
+When did Tripura cross 10000 deaths for the first time?,date_based
+When did Nagaland cross 2000 active cases for the first time?,date_based
+What's the highest number of deaths recorded in Haryana during last month?,max_cases_duration
+Show me the average deaths in Lakshadweep over past 30 days.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+When did Goa cross 1000 deaths for the first time?,date_based
+How many foreign nationals new cases have been reported in Ladakh last week?,sum_cases_duration
+How many foreign nationals recoveries have been reported in Manipur past 30 days?,sum_cases_duration
+What's the highest number of deaths recorded in Gujarat during past 7 days?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+When did Arunachal Pradesh cross 100 recoveries for the first time?,date_based
+How many all deaths have been reported in Kerala last month?,sum_cases_duration
+Which location has the highest number of all?,location_based
+Show me the average recoveries in Rajasthan over last week.,average_cases_duration
+How many active cases are there in Odisha past 30 days?,cases_date
+When did Haryana cross 1000 recoveries for the first time?,date_based
+How many deaths are there in Delhi last month?,cases_date
+What's the highest number of recoveries recorded in Dadra and Nagar Haveli during last week?,max_cases_duration
+When did Bihar cross 2000 new cases for the first time?,date_based
+Show me the average new cases in Jammu and Kashmir over last week.,average_cases_duration
+How many Indian nationals recoveries have been reported in Maharashtra last week?,sum_cases_duration
+How many deaths are there in Lakshadweep past 7 days?,cases_date
+How many deaths are there in Assam past 30 days?,cases_date
+How many Indian nationals active cases have been reported in Punjab last week?,sum_cases_duration
+What's the highest number of active cases recorded in Andaman and Nicobar Islands during past 7 days?,max_cases_duration
+What's the highest number of deaths recorded in Goa during past 30 days?,max_cases_duration
+What's the highest number of deaths recorded in Manipur during last week?,max_cases_duration
+Which location has the highest number of all?,location_based
+Show me the average deaths in Bihar over last week.,average_cases_duration
+How many all recoveries have been reported in Punjab last month?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many new cases are there in Dadra and Nagar Haveli last month?,cases_date
+Which location has the highest number of all?,location_based
+What's the highest number of deaths recorded in Jammu and Kashmir during last month?,max_cases_duration
+What's the highest number of deaths recorded in Manipur during today?,max_cases_duration
+When did Tripura cross 500 deaths for the first time?,date_based
+When did Puducherry cross 100 deaths for the first time?,date_based
+How many all new cases have been reported in Kerala last month?,sum_cases_duration
+How many active cases are there in Chhattisgarh past 7 days?,cases_date
+How many active cases are there in Jharkhand last week?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+What's the highest number of new cases recorded in Lakshadweep during past 7 days?,max_cases_duration
+How many deaths are there in Goa past 30 days?,cases_date
+Show me the average new cases in Rajasthan over past 7 days.,average_cases_duration
+Which location has the highest number of all?,location_based
+How many all active cases have been reported in Delhi last month?,sum_cases_duration
+When did Puducherry cross 100 deaths for the first time?,date_based
+What's the highest number of active cases recorded in Lakshadweep during past 7 days?,max_cases_duration
+What's the highest number of recoveries recorded in Chhattisgarh during last month?,max_cases_duration
+Which location has the highest number of all?,location_based
+Show me the average deaths in Manipur over last week.,average_cases_duration
+When did Meghalaya cross 2000 new cases for the first time?,date_based
+Show me the average recoveries in Goa over last week.,average_cases_duration
+Show me the average new cases in Bihar over last week.,average_cases_duration
+When did Dadra and Nagar Haveli cross 1000 active cases for the first time?,date_based
+When did Bihar cross 10000 deaths for the first time?,date_based
+Show me the average deaths in Uttar Pradesh over past 30 days.,average_cases_duration
+How many all recoveries have been reported in Ladakh last month?,sum_cases_duration
+Which location has the highest number of all?,location_based
+Which location has the highest number of Indian nationals?,location_based
+When did Lakshadweep cross 2000 new cases for the first time?,date_based
+Which location has the highest number of all?,location_based
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of active cases recorded in Haryana during last week?,max_cases_duration
+How many foreign nationals new cases have been reported in Chandigarh last week?,sum_cases_duration
+How many recoveries are there in Tripura past 30 days?,cases_date
+Show me the average deaths in Haryana over last month.,average_cases_duration
+How many new cases are there in Tamil Nadu today?,cases_date
+How many new cases are there in Gujarat past 30 days?,cases_date
+What's the highest number of recoveries recorded in Kerala during past 30 days?,max_cases_duration
+What's the highest number of active cases recorded in Haryana during last month?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+When did Puducherry cross 100 active cases for the first time?,date_based
+Show me the average new cases in Haryana over last month.,average_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of recoveries recorded in Meghalaya during past 30 days?,max_cases_duration
+Show me the average new cases in Tamil Nadu over last week.,average_cases_duration
+Show me the average deaths in Karnataka over last week.,average_cases_duration
+How many all recoveries have been reported in Punjab past 30 days?,sum_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of active cases recorded in Uttarakhand during today?,max_cases_duration
+Which location has the highest number of all?,location_based
+What's the highest number of active cases recorded in Gujarat during past 7 days?,max_cases_duration
+How many all new cases have been reported in Chhattisgarh today?,sum_cases_duration
+How many Indian nationals active cases have been reported in Arunachal Pradesh last week?,sum_cases_duration
+What's the highest number of deaths recorded in Jharkhand during last week?,max_cases_duration
+Show me the average active cases in West Bengal over last week.,average_cases_duration
+How many foreign nationals new cases have been reported in Nagaland past 7 days?,sum_cases_duration
+How many deaths are there in Telengana past 30 days?,cases_date
+Show me the average recoveries in Sikkim over today.,average_cases_duration
+How many all deaths have been reported in Himachal Pradesh last week?,sum_cases_duration
+Show me the average recoveries in Punjab over past 7 days.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+What's the highest number of deaths recorded in Tamil Nadu during last week?,max_cases_duration
+Show me the average active cases in Meghalaya over last month.,average_cases_duration
+How many Indian nationals active cases have been reported in Arunachal Pradesh last week?,sum_cases_duration
+When did Rajasthan cross 100 active cases for the first time?,date_based
+When did Uttarakhand cross 2000 recoveries for the first time?,date_based
+How many deaths are there in Jharkhand last week?,cases_date
+When did Chandigarh cross 500 recoveries for the first time?,date_based
+How many foreign nationals recoveries have been reported in Lakshadweep past 7 days?,sum_cases_duration
+How many Indian nationals new cases have been reported in Karnataka past 7 days?,sum_cases_duration
+How many Indian nationals deaths have been reported in Dadra and Nagar Haveli past 7 days?,sum_cases_duration
+When did Madhya Pradesh cross 100 recoveries for the first time?,date_based
+Show me the average deaths in Telengana over past 7 days.,average_cases_duration
+What's the highest number of new cases recorded in Rajasthan during last month?,max_cases_duration
+What's the highest number of deaths recorded in Maharashtra during past 7 days?,max_cases_duration
+Show me the average recoveries in Manipur over past 30 days.,average_cases_duration
+How many all active cases have been reported in Uttarakhand past 30 days?,sum_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+How many deaths are there in Andaman and Nicobar Islands today?,cases_date
+What's the highest number of new cases recorded in Maharashtra during past 30 days?,max_cases_duration
+How many recoveries are there in Rajasthan last week?,cases_date
+How many Indian nationals active cases have been reported in Punjab past 7 days?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+When did Rajasthan cross 500 deaths for the first time?,date_based
+How many deaths are there in Lakshadweep today?,cases_date
+How many all deaths have been reported in Chandigarh today?,sum_cases_duration
+How many all deaths have been reported in Mizoram last month?,sum_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+Which location has the highest number of foreign nationals?,location_based
+When did Bihar cross 10000 deaths for the first time?,date_based
+How many new cases are there in Chhattisgarh last month?,cases_date
+What's the highest number of new cases recorded in Uttar Pradesh during past 30 days?,max_cases_duration
+What's the highest number of active cases recorded in Manipur during last week?,max_cases_duration
+How many all new cases have been reported in Himachal Pradesh past 30 days?,sum_cases_duration
+Show me the average active cases in Rajasthan over last month.,average_cases_duration
+When did Maharashtra cross 10000 active cases for the first time?,date_based
+Show me the average deaths in Dadra and Nagar Haveli over past 7 days.,average_cases_duration
+How many recoveries are there in Karnataka past 30 days?,cases_date
+When did Jharkhand cross 500 recoveries for the first time?,date_based
+How many Indian nationals new cases have been reported in Karnataka past 7 days?,sum_cases_duration
+How many active cases are there in Assam last month?,cases_date
+When did Uttar Pradesh cross 500 deaths for the first time?,date_based
+Which location has the highest number of foreign nationals?,location_based
+Which location has the highest number of foreign nationals?,location_based
+How many all new cases have been reported in Uttarakhand past 7 days?,sum_cases_duration
+What's the highest number of new cases recorded in Uttarakhand during today?,max_cases_duration
+How many active cases are there in Ladakh last month?,cases_date
+Show me the average new cases in Ladakh over today.,average_cases_duration
+What's the highest number of active cases recorded in West Bengal during past 7 days?,max_cases_duration
+What's the highest number of active cases recorded in Karnataka during today?,max_cases_duration
+When did Himachal Pradesh cross 500 active cases for the first time?,date_based
+How many new cases are there in Kerala last month?,cases_date
+How many active cases are there in Uttar Pradesh last week?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+How many Indian nationals recoveries have been reported in Meghalaya last month?,sum_cases_duration
+How many recoveries are there in Telengana past 7 days?,cases_date
+How many new cases are there in Madhya Pradesh last week?,cases_date
+Show me the average active cases in Arunachal Pradesh over past 30 days.,average_cases_duration
+Show me the average active cases in Nagaland over past 30 days.,average_cases_duration
+How many active cases are there in Meghalaya last week?,cases_date
+Show me the average new cases in Chandigarh over last month.,average_cases_duration
+Show me the average deaths in Arunachal Pradesh over today.,average_cases_duration
+Show me the average new cases in Madhya Pradesh over today.,average_cases_duration
+Show me the average deaths in Chhattisgarh over past 30 days.,average_cases_duration
+When did Dadra and Nagar Haveli cross 2000 new cases for the first time?,date_based
+How many foreign nationals deaths have been reported in Rajasthan last week?,sum_cases_duration
+How many foreign nationals active cases have been reported in Odisha last week?,sum_cases_duration
+Show me the average active cases in Jammu and Kashmir over past 7 days.,average_cases_duration
+How many new cases are there in Chandigarh last week?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+How many new cases are there in Nagaland past 7 days?,cases_date
+How many all deaths have been reported in Assam today?,sum_cases_duration
+How many recoveries are there in Bihar last month?,cases_date
+What's the highest number of deaths recorded in Dadra and Nagar Haveli during last week?,max_cases_duration
+How many foreign nationals deaths have been reported in Punjab last month?,sum_cases_duration
+When did Himachal Pradesh cross 1000 active cases for the first time?,date_based
+How many deaths are there in Assam past 30 days?,cases_date
+Show me the average recoveries in Manipur over past 7 days.,average_cases_duration
+When did Haryana cross 10000 new cases for the first time?,date_based
+How many Indian nationals active cases have been reported in Puducherry today?,sum_cases_duration
+How many recoveries are there in Sikkim past 7 days?,cases_date
+When did Tamil Nadu cross 100 active cases for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+What's the highest number of deaths recorded in Manipur during past 30 days?,max_cases_duration
+Which location has the highest number of all?,location_based
+How many recoveries are there in Uttar Pradesh past 7 days?,cases_date
+What's the highest number of active cases recorded in Jharkhand during last week?,max_cases_duration
+Show me the average deaths in Delhi over today.,average_cases_duration
+How many recoveries are there in Telengana past 30 days?,cases_date
+How many recoveries are there in Chhattisgarh last week?,cases_date
+Which location has the highest number of foreign nationals?,location_based
+Which location has the highest number of all?,location_based
+What's the highest number of deaths recorded in Himachal Pradesh during last month?,max_cases_duration
+How many recoveries are there in Manipur today?,cases_date
+How many Indian nationals new cases have been reported in Chhattisgarh last week?,sum_cases_duration
+When did Jammu and Kashmir cross 2000 new cases for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+Show me the average active cases in Lakshadweep over today.,average_cases_duration
+How many new cases are there in Ladakh past 7 days?,cases_date
+What's the highest number of recoveries recorded in Goa during last month?,max_cases_duration
+How many deaths are there in Bihar today?,cases_date
+When did Madhya Pradesh cross 2000 recoveries for the first time?,date_based
+Which location has the highest number of all?,location_based
+How many all recoveries have been reported in Delhi last week?,sum_cases_duration
+Show me the average active cases in Jharkhand over past 30 days.,average_cases_duration
+When did Punjab cross 500 active cases for the first time?,date_based
+When did Madhya Pradesh cross 100 active cases for the first time?,date_based
+How many recoveries are there in West Bengal past 7 days?,cases_date
+Which location has the highest number of foreign nationals?,location_based
+Show me the average deaths in Goa over last month.,average_cases_duration
+Which location has the highest number of all?,location_based
+When did Bihar cross 500 recoveries for the first time?,date_based
+Show me the average deaths in Ladakh over last week.,average_cases_duration
+What's the highest number of new cases recorded in Odisha during today?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of recoveries recorded in Nagaland during today?,max_cases_duration
+When did Tamil Nadu cross 100 recoveries for the first time?,date_based
+When did Delhi cross 10000 new cases for the first time?,date_based
+Show me the average active cases in Ladakh over last month.,average_cases_duration
+Which location has the highest number of all?,location_based
+How many all deaths have been reported in Uttar Pradesh past 30 days?,sum_cases_duration
+Show me the average active cases in Madhya Pradesh over last month.,average_cases_duration
+How many active cases are there in Mizoram past 30 days?,cases_date
+What's the highest number of new cases recorded in Lakshadweep during last week?,max_cases_duration
+When did Gujarat cross 1000 deaths for the first time?,date_based
+How many active cases are there in Puducherry last week?,cases_date
+How many new cases are there in Punjab past 30 days?,cases_date
+When did Karnataka cross 100 deaths for the first time?,date_based
+Show me the average deaths in Mizoram over past 7 days.,average_cases_duration
+How many Indian nationals new cases have been reported in Andaman and Nicobar Islands today?,sum_cases_duration
+When did Tamil Nadu cross 1000 new cases for the first time?,date_based
+What's the highest number of new cases recorded in Goa during past 7 days?,max_cases_duration
+What's the highest number of active cases recorded in Puducherry during last week?,max_cases_duration
+Show me the average active cases in Uttar Pradesh over today.,average_cases_duration
+Show me the average active cases in Mizoram over past 30 days.,average_cases_duration
+When did Nagaland cross 500 recoveries for the first time?,date_based
+What's the highest number of deaths recorded in Manipur during last month?,max_cases_duration
+What's the highest number of new cases recorded in Dadra and Nagar Haveli during last week?,max_cases_duration
+When did Andaman and Nicobar Islands cross 1000 active cases for the first time?,date_based
+When did Meghalaya cross 100 recoveries for the first time?,date_based
+How many foreign nationals deaths have been reported in Uttarakhand today?,sum_cases_duration
+What's the highest number of active cases recorded in Manipur during past 30 days?,max_cases_duration
+What's the highest number of new cases recorded in Goa during today?,max_cases_duration
+Which location has the highest number of all?,location_based
+How many foreign nationals new cases have been reported in Puducherry past 7 days?,sum_cases_duration
+How many deaths are there in Dadra and Nagar Haveli past 7 days?,cases_date
+Show me the average deaths in Tripura over last month.,average_cases_duration
+Which location has the highest number of all?,location_based
+How many deaths are there in Chandigarh past 30 days?,cases_date
+Which location has the highest number of all?,location_based
+Show me the average recoveries in Odisha over today.,average_cases_duration
+Show me the average active cases in Bihar over today.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+When did Andaman and Nicobar Islands cross 1000 recoveries for the first time?,date_based
+How many Indian nationals deaths have been reported in Arunachal Pradesh past 30 days?,sum_cases_duration
+How many recoveries are there in Jharkhand past 7 days?,cases_date
+How many active cases are there in Assam past 7 days?,cases_date
+When did Himachal Pradesh cross 1000 active cases for the first time?,date_based
+How many foreign nationals new cases have been reported in Odisha today?,sum_cases_duration
+When did Kerala cross 2000 deaths for the first time?,date_based
+How many recoveries are there in Karnataka past 30 days?,cases_date
+When did Arunachal Pradesh cross 2000 deaths for the first time?,date_based
+When did Uttar Pradesh cross 500 deaths for the first time?,date_based
+How many Indian nationals new cases have been reported in Punjab past 30 days?,sum_cases_duration
+How many Indian nationals active cases have been reported in Haryana last week?,sum_cases_duration
+How many all deaths have been reported in Chandigarh past 30 days?,sum_cases_duration
+How many all recoveries have been reported in Punjab past 7 days?,sum_cases_duration
+How many recoveries are there in Madhya Pradesh past 7 days?,cases_date
+Show me the average active cases in Chhattisgarh over past 30 days.,average_cases_duration
+When did Bihar cross 500 deaths for the first time?,date_based
+Show me the average active cases in Chandigarh over past 30 days.,average_cases_duration
+How many recoveries are there in Nagaland last week?,cases_date
+When did Jammu and Kashmir cross 100 new cases for the first time?,date_based
+How many all deaths have been reported in Jharkhand past 30 days?,sum_cases_duration
+How many deaths are there in Haryana today?,cases_date
+Which location has the highest number of foreign nationals?,location_based
+Which location has the highest number of all?,location_based
+Show me the average new cases in Karnataka over last week.,average_cases_duration
+How many all recoveries have been reported in Bihar past 30 days?,sum_cases_duration
+How many foreign nationals deaths have been reported in Meghalaya today?,sum_cases_duration
+What's the highest number of active cases recorded in Jammu and Kashmir during last month?,max_cases_duration
+When did Assam cross 500 recoveries for the first time?,date_based
+How many foreign nationals deaths have been reported in Chandigarh today?,sum_cases_duration
+How many all deaths have been reported in Jammu and Kashmir past 30 days?,sum_cases_duration
+Show me the average new cases in Nagaland over past 30 days.,average_cases_duration
+What's the highest number of new cases recorded in Ladakh during past 30 days?,max_cases_duration
+When did Tripura cross 500 new cases for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+What's the highest number of new cases recorded in Manipur during past 30 days?,max_cases_duration
+How many deaths are there in Mizoram last week?,cases_date
+When did Himachal Pradesh cross 2000 new cases for the first time?,date_based
+Show me the average new cases in Sikkim over past 30 days.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+What's the highest number of deaths recorded in Uttar Pradesh during past 7 days?,max_cases_duration
+How many deaths are there in Delhi today?,cases_date
+Show me the average new cases in Punjab over today.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many all deaths have been reported in Maharashtra today?,sum_cases_duration
+How many Indian nationals active cases have been reported in Goa last month?,sum_cases_duration
+How many new cases are there in Karnataka last month?,cases_date
+Show me the average new cases in Tamil Nadu over past 7 days.,average_cases_duration
+Show me the average recoveries in Maharashtra over past 30 days.,average_cases_duration
+How many recoveries are there in Tripura past 7 days?,cases_date
+How many active cases are there in West Bengal today?,cases_date
+What's the highest number of recoveries recorded in Chandigarh during past 7 days?,max_cases_duration
+When did Chhattisgarh cross 2000 recoveries for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+When did West Bengal cross 500 new cases for the first time?,date_based
+How many all new cases have been reported in West Bengal last week?,sum_cases_duration
+Show me the average recoveries in Arunachal Pradesh over past 30 days.,average_cases_duration
+How many foreign nationals deaths have been reported in Uttarakhand last month?,sum_cases_duration
+When did Madhya Pradesh cross 100 active cases for the first time?,date_based
+Which location has the highest number of foreign nationals?,location_based
+How many active cases are there in Tripura past 30 days?,cases_date
+When did Meghalaya cross 100 deaths for the first time?,date_based
+How many all active cases have been reported in Chandigarh past 7 days?,sum_cases_duration
+When did Goa cross 100 recoveries for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+Show me the average active cases in Manipur over past 7 days.,average_cases_duration
+How many recoveries are there in Maharashtra past 7 days?,cases_date
+When did Assam cross 2000 active cases for the first time?,date_based
+Which location has the highest number of all?,location_based
+How many active cases are there in Himachal Pradesh past 30 days?,cases_date
+Which location has the highest number of all?,location_based
+How many all recoveries have been reported in Dadra and Nagar Haveli last week?,sum_cases_duration
+Show me the average new cases in Assam over today.,average_cases_duration
+Which location has the highest number of all?,location_based
+What's the highest number of recoveries recorded in Puducherry during today?,max_cases_duration
+Show me the average deaths in Andaman and Nicobar Islands over today.,average_cases_duration
+How many all active cases have been reported in Lakshadweep today?,sum_cases_duration
+Which location has the highest number of all?,location_based
+When did Goa cross 1000 deaths for the first time?,date_based
+When did Tripura cross 500 active cases for the first time?,date_based
+How many recoveries are there in Dadra and Nagar Haveli last week?,cases_date
+When did Punjab cross 100 recoveries for the first time?,date_based
+How many deaths are there in Chandigarh today?,cases_date
+When did Chhattisgarh cross 2000 active cases for the first time?,date_based
+When did Manipur cross 500 recoveries for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+When did Maharashtra cross 500 deaths for the first time?,date_based
+How many foreign nationals recoveries have been reported in Uttarakhand past 30 days?,sum_cases_duration
+How many new cases are there in Meghalaya past 7 days?,cases_date
+When did Nagaland cross 500 active cases for the first time?,date_based
+Show me the average recoveries in Nagaland over past 7 days.,average_cases_duration
+How many Indian nationals deaths have been reported in Uttarakhand past 7 days?,sum_cases_duration
+What's the highest number of deaths recorded in West Bengal during last week?,max_cases_duration
+What's the highest number of new cases recorded in Bihar during past 30 days?,max_cases_duration
+How many active cases are there in Assam past 7 days?,cases_date
+How many new cases are there in Maharashtra past 7 days?,cases_date
+Which location has the highest number of all?,location_based
+When did Uttar Pradesh cross 500 new cases for the first time?,date_based
+When did Haryana cross 10000 deaths for the first time?,date_based
+What's the highest number of active cases recorded in Assam during last week?,max_cases_duration
+How many deaths are there in Telengana past 7 days?,cases_date
+What's the highest number of recoveries recorded in Madhya Pradesh during past 30 days?,max_cases_duration
+How many Indian nationals active cases have been reported in Uttar Pradesh today?,sum_cases_duration
+What's the highest number of active cases recorded in Delhi during last month?,max_cases_duration
+How many all active cases have been reported in Meghalaya last week?,sum_cases_duration
+How many Indian nationals deaths have been reported in Chhattisgarh last month?,sum_cases_duration
+What's the highest number of deaths recorded in Maharashtra during past 30 days?,max_cases_duration
+What's the highest number of new cases recorded in Uttar Pradesh during last month?,max_cases_duration
+How many recoveries are there in Chandigarh last month?,cases_date
+Which location has the highest number of all?,location_based
+How many foreign nationals new cases have been reported in Maharashtra last week?,sum_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+When did Bihar cross 100 active cases for the first time?,date_based
+When did Andaman and Nicobar Islands cross 100 recoveries for the first time?,date_based
+How many all deaths have been reported in Himachal Pradesh last month?,sum_cases_duration
+When did Haryana cross 1000 active cases for the first time?,date_based
+When did Gujarat cross 1000 active cases for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+What's the highest number of new cases recorded in Odisha during past 7 days?,max_cases_duration
+Show me the average active cases in Haryana over last week.,average_cases_duration
+How many foreign nationals active cases have been reported in Tamil Nadu today?,sum_cases_duration
+What's the highest number of recoveries recorded in Rajasthan during today?,max_cases_duration
+Show me the average recoveries in Goa over last week.,average_cases_duration
+What's the highest number of new cases recorded in Karnataka during last month?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+Which location has the highest number of foreign nationals?,location_based
+When did Maharashtra cross 100 active cases for the first time?,date_based
+What's the highest number of deaths recorded in Meghalaya during last week?,max_cases_duration
+What's the highest number of active cases recorded in Uttar Pradesh during past 30 days?,max_cases_duration
+What's the highest number of recoveries recorded in Dadra and Nagar Haveli during past 30 days?,max_cases_duration
+What's the highest number of deaths recorded in Dadra and Nagar Haveli during past 7 days?,max_cases_duration
+Which location has the highest number of all?,location_based
+How many all new cases have been reported in Ladakh past 30 days?,sum_cases_duration
+What's the highest number of active cases recorded in Goa during today?,max_cases_duration
+Show me the average deaths in Odisha over last month.,average_cases_duration
+How many new cases are there in West Bengal past 7 days?,cases_date
+Show me the average recoveries in Haryana over past 7 days.,average_cases_duration
+How many all deaths have been reported in Ladakh past 7 days?,sum_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of new cases recorded in Chhattisgarh during past 30 days?,max_cases_duration
+Which location has the highest number of all?,location_based
+What's the highest number of recoveries recorded in Uttarakhand during last month?,max_cases_duration
+When did West Bengal cross 100 new cases for the first time?,date_based
+What's the highest number of active cases recorded in Kerala during last week?,max_cases_duration
+How many deaths are there in Tripura past 30 days?,cases_date
+How many deaths are there in Dadra and Nagar Haveli past 30 days?,cases_date
+How many deaths are there in Gujarat last month?,cases_date
+When did Bihar cross 1000 deaths for the first time?,date_based
+How many all active cases have been reported in Andaman and Nicobar Islands past 30 days?,sum_cases_duration
+How many active cases are there in Madhya Pradesh past 7 days?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+When did West Bengal cross 2000 deaths for the first time?,date_based
+What's the highest number of new cases recorded in Meghalaya during last week?,max_cases_duration
+When did Puducherry cross 500 new cases for the first time?,date_based
+How many all deaths have been reported in Punjab last month?,sum_cases_duration
+Show me the average new cases in Puducherry over last month.,average_cases_duration
+What's the highest number of active cases recorded in Lakshadweep during last week?,max_cases_duration
+How many Indian nationals deaths have been reported in Bihar past 7 days?,sum_cases_duration
+How many foreign nationals deaths have been reported in Ladakh past 7 days?,sum_cases_duration
+Which location has the highest number of all?,location_based
+How many Indian nationals active cases have been reported in Jammu and Kashmir today?,sum_cases_duration
+Which location has the highest number of all?,location_based
+Which location has the highest number of Indian nationals?,location_based
+How many Indian nationals new cases have been reported in Ladakh past 7 days?,sum_cases_duration
+How many foreign nationals new cases have been reported in Meghalaya today?,sum_cases_duration
+Show me the average recoveries in Uttarakhand over today.,average_cases_duration
+What's the highest number of recoveries recorded in Uttar Pradesh during last month?,max_cases_duration
+How many all deaths have been reported in Haryana last month?,sum_cases_duration
+When did Nagaland cross 10000 active cases for the first time?,date_based
+When did Andaman and Nicobar Islands cross 500 new cases for the first time?,date_based
+How many foreign nationals deaths have been reported in Bihar today?,sum_cases_duration
+How many all deaths have been reported in Lakshadweep last month?,sum_cases_duration
+What's the highest number of new cases recorded in Odisha during last month?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+Which location has the highest number of foreign nationals?,location_based
+How many all recoveries have been reported in Delhi past 7 days?,sum_cases_duration
+How many recoveries are there in Arunachal Pradesh past 7 days?,cases_date
+When did Tamil Nadu cross 100 deaths for the first time?,date_based
+Show me the average deaths in Tripura over today.,average_cases_duration
+How many new cases are there in Bihar last month?,cases_date
+Which location has the highest number of all?,location_based
+When did Puducherry cross 500 new cases for the first time?,date_based
+Show me the average new cases in Arunachal Pradesh over today.,average_cases_duration
+Which location has the highest number of all?,location_based
+Which location has the highest number of foreign nationals?,location_based
+Show me the average recoveries in Tamil Nadu over past 7 days.,average_cases_duration
+How many all new cases have been reported in Himachal Pradesh last month?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+When did Goa cross 1000 recoveries for the first time?,date_based
+Which location has the highest number of all?,location_based
+Which location has the highest number of Indian nationals?,location_based
+When did Madhya Pradesh cross 1000 recoveries for the first time?,date_based
+What's the highest number of deaths recorded in Dadra and Nagar Haveli during past 30 days?,max_cases_duration
+What's the highest number of active cases recorded in Manipur during last week?,max_cases_duration
+How many foreign nationals active cases have been reported in Ladakh past 7 days?,sum_cases_duration
+What's the highest number of recoveries recorded in Tripura during past 30 days?,max_cases_duration
+When did Arunachal Pradesh cross 10000 new cases for the first time?,date_based
+How many foreign nationals active cases have been reported in Sikkim today?,sum_cases_duration
+How many deaths are there in Mizoram past 30 days?,cases_date
+What's the highest number of deaths recorded in Mizoram during last week?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+Show me the average new cases in Mizoram over last month.,average_cases_duration
+How many foreign nationals recoveries have been reported in Madhya Pradesh past 7 days?,sum_cases_duration
+Show me the average new cases in Kerala over today.,average_cases_duration
+How many all active cases have been reported in Kerala past 7 days?,sum_cases_duration
+How many new cases are there in Goa past 7 days?,cases_date
+How many recoveries are there in Chhattisgarh today?,cases_date
+How many foreign nationals deaths have been reported in Mizoram last week?,sum_cases_duration
+How many all recoveries have been reported in Odisha today?,sum_cases_duration
+Show me the average new cases in Delhi over last week.,average_cases_duration
+When did Tamil Nadu cross 500 deaths for the first time?,date_based
+How many all recoveries have been reported in Rajasthan past 30 days?,sum_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of recoveries recorded in Kerala during past 30 days?,max_cases_duration
+How many all new cases have been reported in Bihar last month?,sum_cases_duration
+Show me the average new cases in Chhattisgarh over last week.,average_cases_duration
+What's the highest number of recoveries recorded in Dadra and Nagar Haveli during last month?,max_cases_duration
+How many foreign nationals new cases have been reported in Meghalaya past 30 days?,sum_cases_duration
+When did Madhya Pradesh cross 10000 new cases for the first time?,date_based
+How many active cases are there in Assam last month?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+Which location has the highest number of Indian nationals?,location_based
+When did Punjab cross 500 active cases for the first time?,date_based
+Show me the average recoveries in Manipur over last month.,average_cases_duration
+How many deaths are there in Maharashtra past 30 days?,cases_date
+Show me the average deaths in Sikkim over last week.,average_cases_duration
+Show me the average deaths in Assam over last month.,average_cases_duration
+Which location has the highest number of all?,location_based
+Which location has the highest number of foreign nationals?,location_based
+Show me the average new cases in Madhya Pradesh over past 30 days.,average_cases_duration
+How many deaths are there in Meghalaya past 7 days?,cases_date
+How many foreign nationals new cases have been reported in Manipur last month?,sum_cases_duration
+When did Manipur cross 2000 active cases for the first time?,date_based
+How many recoveries are there in Goa past 7 days?,cases_date
+How many all deaths have been reported in Sikkim past 7 days?,sum_cases_duration
+What's the highest number of new cases recorded in Assam during last week?,max_cases_duration
+When did Uttarakhand cross 1000 recoveries for the first time?,date_based
+Which location has the highest number of all?,location_based
+When did Madhya Pradesh cross 10000 deaths for the first time?,date_based
+Which location has the highest number of all?,location_based
+How many Indian nationals deaths have been reported in Maharashtra past 30 days?,sum_cases_duration
+How many deaths are there in West Bengal past 7 days?,cases_date
+How many Indian nationals active cases have been reported in Karnataka past 30 days?,sum_cases_duration
+Show me the average active cases in Ladakh over today.,average_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+How many Indian nationals deaths have been reported in Karnataka past 30 days?,sum_cases_duration
+How many deaths are there in Andaman and Nicobar Islands past 30 days?,cases_date
+Show me the average deaths in Chandigarh over last week.,average_cases_duration
+When did Tamil Nadu cross 10000 active cases for the first time?,date_based
+When did Dadra and Nagar Haveli cross 2000 active cases for the first time?,date_based
+How many active cases are there in Punjab today?,cases_date
+How many new cases are there in Nagaland last week?,cases_date
+How many active cases are there in Uttarakhand last month?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+How many recoveries are there in Delhi last month?,cases_date
+How many foreign nationals active cases have been reported in Jharkhand today?,sum_cases_duration
+What's the highest number of recoveries recorded in Ladakh during today?,max_cases_duration
+When did Meghalaya cross 1000 active cases for the first time?,date_based
+When did Madhya Pradesh cross 2000 recoveries for the first time?,date_based
+How many recoveries are there in Karnataka last month?,cases_date
+How many new cases are there in West Bengal last month?,cases_date
+Show me the average deaths in Assam over past 7 days.,average_cases_duration
+How many all new cases have been reported in Dadra and Nagar Haveli last month?,sum_cases_duration
+How many all new cases have been reported in Andaman and Nicobar Islands last week?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+When did Meghalaya cross 2000 deaths for the first time?,date_based
+Show me the average new cases in Dadra and Nagar Haveli over last month.,average_cases_duration
+Show me the average active cases in Mizoram over today.,average_cases_duration
+What's the highest number of deaths recorded in Madhya Pradesh during last week?,max_cases_duration
+How many Indian nationals new cases have been reported in Goa today?,sum_cases_duration
+How many new cases are there in Dadra and Nagar Haveli last month?,cases_date
+When did Delhi cross 1000 recoveries for the first time?,date_based
+Which location has the highest number of all?,location_based
+What's the highest number of recoveries recorded in Assam during past 30 days?,max_cases_duration
+Show me the average recoveries in Karnataka over today.,average_cases_duration
+What's the highest number of recoveries recorded in Andaman and Nicobar Islands during last week?,max_cases_duration
+How many new cases are there in Dadra and Nagar Haveli last month?,cases_date
+Show me the average new cases in Haryana over past 7 days.,average_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of deaths recorded in Uttar Pradesh during last month?,max_cases_duration
+How many Indian nationals deaths have been reported in Telengana past 30 days?,sum_cases_duration
+How many active cases are there in Uttarakhand last month?,cases_date
+How many Indian nationals recoveries have been reported in Maharashtra last month?,sum_cases_duration
+How many all recoveries have been reported in Rajasthan today?,sum_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+When did Tamil Nadu cross 100 new cases for the first time?,date_based
+Show me the average deaths in Odisha over today.,average_cases_duration
+How many all deaths have been reported in Meghalaya past 7 days?,sum_cases_duration
+How many all new cases have been reported in Telengana last week?,sum_cases_duration
+What's the highest number of recoveries recorded in Delhi during last month?,max_cases_duration
+When did Haryana cross 1000 active cases for the first time?,date_based
+What's the highest number of new cases recorded in Kerala during last month?,max_cases_duration
+How many foreign nationals active cases have been reported in Chhattisgarh past 7 days?,sum_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+When did Delhi cross 500 recoveries for the first time?,date_based
+How many recoveries are there in Assam past 7 days?,cases_date
+How many foreign nationals new cases have been reported in Jharkhand past 7 days?,sum_cases_duration
+What's the highest number of active cases recorded in Chandigarh during last month?,max_cases_duration
+Show me the average deaths in Telengana over last week.,average_cases_duration
+What's the highest number of new cases recorded in Rajasthan during today?,max_cases_duration
+What's the highest number of deaths recorded in Jharkhand during today?,max_cases_duration
+When did Manipur cross 2000 deaths for the first time?,date_based
+What's the highest number of recoveries recorded in Goa during past 30 days?,max_cases_duration
+How many active cases are there in Haryana last month?,cases_date
+Which location has the highest number of all?,location_based
+Show me the average recoveries in Uttar Pradesh over past 7 days.,average_cases_duration
+When did Tripura cross 500 deaths for the first time?,date_based
+When did Maharashtra cross 10000 recoveries for the first time?,date_based
+How many recoveries are there in Bihar past 7 days?,cases_date
+How many active cases are there in Maharashtra past 30 days?,cases_date
+When did Tripura cross 10000 active cases for the first time?,date_based
+How many deaths are there in Ladakh past 7 days?,cases_date
+How many Indian nationals new cases have been reported in Telengana last week?,sum_cases_duration
+When did Jharkhand cross 10000 active cases for the first time?,date_based
+When did Tripura cross 100 new cases for the first time?,date_based
+How many recoveries are there in Manipur last month?,cases_date
+Show me the average active cases in Madhya Pradesh over last month.,average_cases_duration
+How many deaths are there in Punjab today?,cases_date
+Show me the average new cases in Delhi over past 30 days.,average_cases_duration
+What's the highest number of active cases recorded in Karnataka during past 30 days?,max_cases_duration
+Show me the average recoveries in Karnataka over last week.,average_cases_duration
+Show me the average active cases in Uttar Pradesh over past 30 days.,average_cases_duration
+How many all active cases have been reported in Dadra and Nagar Haveli past 30 days?,sum_cases_duration
+How many recoveries are there in Puducherry past 7 days?,cases_date
+When did Nagaland cross 100 deaths for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+Show me the average active cases in Ladakh over today.,average_cases_duration
+How many deaths are there in Punjab last month?,cases_date
+When did Chhattisgarh cross 500 active cases for the first time?,date_based
+What's the highest number of recoveries recorded in Telengana during past 7 days?,max_cases_duration
+How many all new cases have been reported in Himachal Pradesh last month?,sum_cases_duration
+How many deaths are there in Arunachal Pradesh today?,cases_date
+How many foreign nationals recoveries have been reported in Jharkhand past 30 days?,sum_cases_duration
+Show me the average new cases in Nagaland over today.,average_cases_duration
+What's the highest number of new cases recorded in Bihar during last month?,max_cases_duration
+When did Uttarakhand cross 500 recoveries for the first time?,date_based
+When did Bihar cross 1000 deaths for the first time?,date_based
+Show me the average new cases in Himachal Pradesh over last week.,average_cases_duration
+When did Meghalaya cross 2000 active cases for the first time?,date_based
+Which location has the highest number of all?,location_based
+How many Indian nationals active cases have been reported in Chhattisgarh last month?,sum_cases_duration
+How many foreign nationals recoveries have been reported in Odisha past 7 days?,sum_cases_duration
+Show me the average recoveries in Himachal Pradesh over past 30 days.,average_cases_duration
+When did Tamil Nadu cross 500 deaths for the first time?,date_based
+What's the highest number of recoveries recorded in Madhya Pradesh during past 30 days?,max_cases_duration
+Which location has the highest number of all?,location_based
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of new cases recorded in Himachal Pradesh during past 7 days?,max_cases_duration
+When did Goa cross 100 new cases for the first time?,date_based
+What's the highest number of recoveries recorded in Gujarat during last week?,max_cases_duration
+What's the highest number of new cases recorded in Himachal Pradesh during last month?,max_cases_duration
+How many Indian nationals deaths have been reported in Andaman and Nicobar Islands today?,sum_cases_duration
+How many Indian nationals active cases have been reported in Telengana past 7 days?,sum_cases_duration
+Show me the average new cases in Mizoram over past 7 days.,average_cases_duration
+How many foreign nationals new cases have been reported in Haryana today?,sum_cases_duration
+Show me the average new cases in Madhya Pradesh over today.,average_cases_duration
+What's the highest number of active cases recorded in Tamil Nadu during past 7 days?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+How many new cases are there in Bihar today?,cases_date
+How many recoveries are there in Chhattisgarh today?,cases_date
+Which location has the highest number of all?,location_based
+Which location has the highest number of all?,location_based
+What's the highest number of new cases recorded in Puducherry during last week?,max_cases_duration
+Show me the average active cases in Delhi over today.,average_cases_duration
+When did Delhi cross 100 recoveries for the first time?,date_based
+When did Uttar Pradesh cross 100 active cases for the first time?,date_based
+How many all active cases have been reported in Punjab last month?,sum_cases_duration
+When did Lakshadweep cross 500 recoveries for the first time?,date_based
+What's the highest number of recoveries recorded in Rajasthan during last week?,max_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many all deaths have been reported in Meghalaya today?,sum_cases_duration
+Show me the average recoveries in Tripura over last week.,average_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of active cases recorded in Jammu and Kashmir during past 30 days?,max_cases_duration
+Show me the average deaths in Madhya Pradesh over last month.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many foreign nationals deaths have been reported in Kerala last month?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+Show me the average active cases in Maharashtra over last month.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+Show me the average recoveries in Meghalaya over past 30 days.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many Indian nationals active cases have been reported in Dadra and Nagar Haveli past 30 days?,sum_cases_duration
+Show me the average new cases in Tripura over past 30 days.,average_cases_duration
+How many active cases are there in Tamil Nadu today?,cases_date
+How many new cases are there in Karnataka past 30 days?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+When did Assam cross 10000 new cases for the first time?,date_based
+What's the highest number of recoveries recorded in Chhattisgarh during past 30 days?,max_cases_duration
+Show me the average new cases in Dadra and Nagar Haveli over past 7 days.,average_cases_duration
+How many new cases are there in Chandigarh last week?,cases_date
+How many active cases are there in Karnataka past 30 days?,cases_date
+When did Andaman and Nicobar Islands cross 1000 new cases for the first time?,date_based
+What's the highest number of recoveries recorded in Mizoram during past 30 days?,max_cases_duration
+When did Arunachal Pradesh cross 100 recoveries for the first time?,date_based
+How many recoveries are there in Rajasthan past 30 days?,cases_date
+When did Manipur cross 2000 deaths for the first time?,date_based
+When did Puducherry cross 100 deaths for the first time?,date_based
+Which location has the highest number of all?,location_based
+Show me the average active cases in Tripura over last month.,average_cases_duration
+Show me the average deaths in Kerala over past 7 days.,average_cases_duration
+Show me the average active cases in West Bengal over past 30 days.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many recoveries are there in Karnataka last week?,cases_date
+How many Indian nationals recoveries have been reported in West Bengal last month?,sum_cases_duration
+How many new cases are there in Jharkhand last week?,cases_date
+How many Indian nationals new cases have been reported in Dadra and Nagar Haveli past 7 days?,sum_cases_duration
+How many all new cases have been reported in Gujarat today?,sum_cases_duration
+When did Tripura cross 100 recoveries for the first time?,date_based
+How many deaths are there in Andaman and Nicobar Islands past 7 days?,cases_date
+When did Tamil Nadu cross 2000 new cases for the first time?,date_based
+How many Indian nationals recoveries have been reported in Jammu and Kashmir today?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many new cases are there in Mizoram past 30 days?,cases_date
+How many deaths are there in Uttar Pradesh last week?,cases_date
+Show me the average active cases in Chandigarh over last week.,average_cases_duration
+Show me the average active cases in Himachal Pradesh over last week.,average_cases_duration
+What's the highest number of new cases recorded in Manipur during today?,max_cases_duration
+What's the highest number of deaths recorded in Chhattisgarh during last month?,max_cases_duration
+How many active cases are there in Arunachal Pradesh last month?,cases_date
+Show me the average recoveries in Delhi over past 30 days.,average_cases_duration
+Show me the average new cases in Tripura over past 7 days.,average_cases_duration
+How many deaths are there in Rajasthan last month?,cases_date
+How many foreign nationals active cases have been reported in Karnataka today?,sum_cases_duration
+Which location has the highest number of all?,location_based
+What's the highest number of active cases recorded in Himachal Pradesh during last week?,max_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+When did Lakshadweep cross 1000 new cases for the first time?,date_based
+What's the highest number of deaths recorded in Odisha during past 30 days?,max_cases_duration
+When did Assam cross 2000 recoveries for the first time?,date_based
+How many new cases are there in Nagaland today?,cases_date
+Show me the average deaths in Lakshadweep over last week.,average_cases_duration
+Show me the average recoveries in Manipur over past 30 days.,average_cases_duration
+How many new cases are there in Delhi last month?,cases_date
+How many Indian nationals active cases have been reported in Karnataka past 7 days?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+When did Odisha cross 100 deaths for the first time?,date_based
+How many recoveries are there in Jammu and Kashmir past 30 days?,cases_date
+How many new cases are there in Maharashtra past 7 days?,cases_date
+Which location has the highest number of all?,location_based
+What's the highest number of deaths recorded in Meghalaya during today?,max_cases_duration
+What's the highest number of deaths recorded in Karnataka during today?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+How many new cases are there in Ladakh last week?,cases_date
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of new cases recorded in Chandigarh during today?,max_cases_duration
+How many active cases are there in Telengana last week?,cases_date
+Show me the average active cases in Delhi over past 7 days.,average_cases_duration
+What's the highest number of deaths recorded in Andaman and Nicobar Islands during last week?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+Which location has the highest number of foreign nationals?,location_based
+How many deaths are there in Jammu and Kashmir past 7 days?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+Show me the average new cases in West Bengal over past 30 days.,average_cases_duration
+How many all recoveries have been reported in Himachal Pradesh today?,sum_cases_duration
+What's the highest number of new cases recorded in Lakshadweep during past 30 days?,max_cases_duration
+How many deaths are there in Lakshadweep past 7 days?,cases_date
+How many deaths are there in Puducherry past 7 days?,cases_date
+Show me the average deaths in Gujarat over last month.,average_cases_duration
+What's the highest number of new cases recorded in Mizoram during today?,max_cases_duration
+What's the highest number of recoveries recorded in Arunachal Pradesh during past 7 days?,max_cases_duration
+How many all recoveries have been reported in Kerala last week?,sum_cases_duration
+What's the highest number of recoveries recorded in Tripura during last week?,max_cases_duration
+When did Manipur cross 100 new cases for the first time?,date_based
+Which location has the highest number of all?,location_based
+When did Chhattisgarh cross 100 new cases for the first time?,date_based
+How many Indian nationals recoveries have been reported in Mizoram today?,sum_cases_duration
+Show me the average new cases in Uttarakhand over past 7 days.,average_cases_duration
+When did Arunachal Pradesh cross 500 new cases for the first time?,date_based
+How many all recoveries have been reported in Telengana today?,sum_cases_duration
+When did Uttar Pradesh cross 1000 recoveries for the first time?,date_based
+How many all new cases have been reported in Kerala last week?,sum_cases_duration
+When did Lakshadweep cross 100 deaths for the first time?,date_based
+What's the highest number of recoveries recorded in Uttar Pradesh during past 7 days?,max_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+When did Goa cross 2000 recoveries for the first time?,date_based
+Which location has the highest number of foreign nationals?,location_based
+How many deaths are there in Maharashtra last month?,cases_date
+How many deaths are there in Jharkhand last week?,cases_date
+How many deaths are there in Telengana last month?,cases_date
+How many active cases are there in Uttar Pradesh last month?,cases_date
+Show me the average new cases in Gujarat over past 30 days.,average_cases_duration
+Show me the average deaths in Chhattisgarh over today.,average_cases_duration
+What's the highest number of recoveries recorded in Kerala during past 7 days?,max_cases_duration
+How many active cases are there in Tripura past 30 days?,cases_date
+Which location has the highest number of foreign nationals?,location_based
+When did Punjab cross 100 deaths for the first time?,date_based
+How many foreign nationals recoveries have been reported in Tripura today?,sum_cases_duration
+When did Karnataka cross 2000 recoveries for the first time?,date_based
+When did Manipur cross 500 deaths for the first time?,date_based
+How many foreign nationals deaths have been reported in Sikkim last week?,sum_cases_duration
+When did Tamil Nadu cross 500 new cases for the first time?,date_based
+When did West Bengal cross 500 recoveries for the first time?,date_based
+How many all deaths have been reported in Haryana last month?,sum_cases_duration
+What's the highest number of active cases recorded in Uttar Pradesh during last week?,max_cases_duration
+How many active cases are there in Himachal Pradesh last week?,cases_date
+Which location has the highest number of Indian nationals?,location_based
+How many recoveries are there in Meghalaya last month?,cases_date
+How many Indian nationals deaths have been reported in Assam past 7 days?,sum_cases_duration
+What's the highest number of recoveries recorded in Rajasthan during last week?,max_cases_duration
+What's the highest number of active cases recorded in Telengana during last month?,max_cases_duration
+What's the highest number of active cases recorded in Madhya Pradesh during past 7 days?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+How many deaths are there in Jammu and Kashmir last month?,cases_date
+Which location has the highest number of foreign nationals?,location_based
+Which location has the highest number of Indian nationals?,location_based
+What's the highest number of deaths recorded in Himachal Pradesh during past 30 days?,max_cases_duration
+How many deaths are there in Manipur today?,cases_date
+What's the highest number of deaths recorded in Madhya Pradesh during past 30 days?,max_cases_duration
+When did Ladakh cross 1000 active cases for the first time?,date_based
+Show me the average active cases in Maharashtra over past 30 days.,average_cases_duration
+Which location has the highest number of all?,location_based
+How many deaths are there in Dadra and Nagar Haveli last week?,cases_date
+How many new cases are there in Delhi last week?,cases_date
+Show me the average recoveries in Nagaland over past 30 days.,average_cases_duration
+Show me the average active cases in Himachal Pradesh over past 7 days.,average_cases_duration
+How many Indian nationals recoveries have been reported in Himachal Pradesh today?,sum_cases_duration
+How many Indian nationals recoveries have been reported in Maharashtra last month?,sum_cases_duration
+Show me the average recoveries in Tripura over past 30 days.,average_cases_duration
+What's the highest number of active cases recorded in Ladakh during last month?,max_cases_duration
+How many all recoveries have been reported in Arunachal Pradesh last week?,sum_cases_duration
+How many foreign nationals new cases have been reported in Kerala past 30 days?,sum_cases_duration
+How many Indian nationals active cases have been reported in Sikkim today?,sum_cases_duration
+When did Kerala cross 500 active cases for the first time?,date_based
+How many new cases are there in Arunachal Pradesh past 7 days?,cases_date
+When did Delhi cross 100 active cases for the first time?,date_based
+Show me the average recoveries in Tripura over past 30 days.,average_cases_duration
+How many all new cases have been reported in Nagaland last week?,sum_cases_duration
+When did Tamil Nadu cross 500 new cases for the first time?,date_based
+How many foreign nationals active cases have been reported in Puducherry last month?,sum_cases_duration
+How many recoveries are there in Jharkhand last week?,cases_date
+How many foreign nationals recoveries have been reported in Puducherry today?,sum_cases_duration
+Show me the average active cases in Kerala over last month.,average_cases_duration
+How many new cases are there in Jharkhand last month?,cases_date
+Show me the average new cases in Rajasthan over last month.,average_cases_duration
+When did West Bengal cross 1000 active cases for the first time?,date_based
+How many foreign nationals recoveries have been reported in Chhattisgarh today?,sum_cases_duration
+What's the highest number of active cases recorded in Karnataka during past 7 days?,max_cases_duration
+How many Indian nationals active cases have been reported in Tamil Nadu past 7 days?,sum_cases_duration
+When did Gujarat cross 10000 deaths for the first time?,date_based
+How many foreign nationals new cases have been reported in Dadra and Nagar Haveli last month?,sum_cases_duration
+How many foreign nationals recoveries have been reported in Chhattisgarh past 7 days?,sum_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+How many deaths are there in Goa today?,cases_date
+Show me the average new cases in Delhi over past 30 days.,average_cases_duration
+Which location has the highest number of Indian nationals?,location_based
+Which location has the highest number of all?,location_based
+How many all recoveries have been reported in Karnataka last week?,sum_cases_duration
+What's the highest number of recoveries recorded in Puducherry during today?,max_cases_duration
+How many recoveries are there in Uttarakhand past 7 days?,cases_date
+How many Indian nationals new cases have been reported in Sikkim past 30 days?,sum_cases_duration
+How many all new cases have been reported in Madhya Pradesh today?,sum_cases_duration
+When did Bihar cross 1000 deaths for the first time?,date_based
+Which location has the highest number of all?,location_based
+Show me the average recoveries in Delhi over last week.,average_cases_duration
+Show me the average new cases in Tamil Nadu over past 7 days.,average_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+Show me the average recoveries in Lakshadweep over past 30 days.,average_cases_duration
+How many Indian nationals active cases have been reported in Arunachal Pradesh past 7 days?,sum_cases_duration
+How many recoveries are there in Delhi last month?,cases_date
+When did Chandigarh cross 100 new cases for the first time?,date_based
+How many foreign nationals deaths have been reported in Himachal Pradesh past 30 days?,sum_cases_duration
+Show me the average deaths in Himachal Pradesh over past 7 days.,average_cases_duration
+When did Uttar Pradesh cross 10000 new cases for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+Which location has the highest number of all?,location_based
+Which location has the highest number of Indian nationals?,location_based
+When did Madhya Pradesh cross 1000 new cases for the first time?,date_based
+Show me the average deaths in Sikkim over past 30 days.,average_cases_duration
+Which location has the highest number of all?,location_based
+How many new cases are there in Tripura last month?,cases_date
+When did Tripura cross 500 recoveries for the first time?,date_based
+How many all deaths have been reported in Jharkhand past 7 days?,sum_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+Show me the average active cases in Maharashtra over last week.,average_cases_duration
+When did Tripura cross 10000 new cases for the first time?,date_based
+Show me the average new cases in West Bengal over past 30 days.,average_cases_duration
+How many Indian nationals active cases have been reported in Mizoram last week?,sum_cases_duration
+When did Karnataka cross 10000 new cases for the first time?,date_based
+What's the highest number of deaths recorded in Nagaland during today?,max_cases_duration
+When did Dadra and Nagar Haveli cross 2000 new cases for the first time?,date_based
+What's the highest number of recoveries recorded in Goa during past 7 days?,max_cases_duration
+What's the highest number of recoveries recorded in Puducherry during today?,max_cases_duration
+Which location has the highest number of foreign nationals?,location_based
+How many recoveries are there in Sikkim past 7 days?,cases_date
+Show me the average recoveries in Uttar Pradesh over last week.,average_cases_duration
+How many all recoveries have been reported in Goa last week?,sum_cases_duration
+When did Manipur cross 500 active cases for the first time?,date_based
+Which location has the highest number of Indian nationals?,location_based
+Which location has the highest number of foreign nationals?,location_based
+What's the highest number of deaths recorded in Maharashtra during today?,max_cases_duration
+Show me the average deaths in Maharashtra over last month.,average_cases_duration
+Which location has the highest number of all?,location_based
+How many recoveries are there in Kerala past 7 days?,cases_date
+When did Himachal Pradesh cross 500 new cases for the first time?,date_based
+When did Puducherry cross 1000 new cases for the first time?,date_based
