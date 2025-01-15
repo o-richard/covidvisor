@@ -52,13 +52,13 @@ def cleanup_entities(intent, entities):
     duration = entities.get("DURATION", entities.get("DATE", "all_time"))
     duration_count = get_integer_from_text(duration, 1)
     if "day" in duration:
-        duration = f"- {duration_count} days"
+        duration = f"-{duration_count} days"
     elif "week" in duration:
-        duration = f"- {duration_count} weeks"
+        duration = f"-{duration_count} weeks"
     elif "month" in duration:
-        duration = f"- {duration_count} months"
+        duration = f"-{duration_count} months"
     elif "year" in duration:
-        duration = f"- {duration_count} years"
+        duration = f"-{duration_count} years"
     else:
         duration = "all_time"
 
@@ -79,7 +79,7 @@ def process_query(query):
         classification = classification_pipeline(query)[0][0]
         intent = classification_mapping.get(classification['label'], "no_match")
         if classification['score'] < 0.8:
-            intent = "intent"
+            intent = "no_match"
     except IndexError:
         intent = "no_match"
     
